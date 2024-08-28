@@ -9,7 +9,7 @@ export default [
     year: "2024",
     title: "Software Engineer - Dell Technologies",
     duration: "10 months",
-    details: "Started out with an internship during which I focused on learning about .NET and developing other technical skills, while also having the opportunity to participate in workshops, networking meetings and much more organised under the internship programme. After transitioning into a FTE, I was part of DFS Digital, where I worked on transforming cloud-based platform implementations and integrations used by Dell's own financing arm to facilitate customer financing of products and services. ",
+    details: "Started out with an internship during which I focused on learning about .NET and developing other technical skills, while also having the opportunity to participate in workshops, networking meetings and much more organised under the internship programme. After transitioning into an FTE, I was part of DFS Digital, where I worked on transforming cloud-based platform implementations and integrations used by Dell's own financing arm to facilitate customer financing of products and services. ",
   },
   {
     year: "2023",
