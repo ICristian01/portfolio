@@ -15,6 +15,6 @@ export default [
     title: "Bookshop",
     imgUrl: "/assets/bulky.png",
     stack: [".NET", "SQL"],
-    link: "https://github.com",
+    link: "https://github.com/ICristian01/bookshop",
   },
 ];
